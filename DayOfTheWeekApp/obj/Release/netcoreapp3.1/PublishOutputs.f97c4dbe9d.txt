@@ -1,0 +1,7 @@
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.exe
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.dll
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.deps.json
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.runtimeconfig.json
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.pdb
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.Core.dll
+C:\Users\Kubuś\Desktop\Dayoftheweekapp aplikacja\DayOfTheWeekApp.Core.pdb

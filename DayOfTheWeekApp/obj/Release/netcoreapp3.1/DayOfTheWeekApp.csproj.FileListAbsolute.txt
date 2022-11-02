@@ -1,0 +1,17 @@
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.exe
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.deps.json
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.runtimeconfig.json
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.runtimeconfig.dev.json
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.dll
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.pdb
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.Core.dll
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\bin\Release\netcoreapp3.1\DayOfTheWeekApp.Core.pdb
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.csproj.AssemblyReference.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.AssemblyInfoInputs.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.AssemblyInfo.cs
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.csproj.CoreCompileInputs.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.csproj.CopyComplete
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.dll
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.pdb
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp\obj\Release\netcoreapp3.1\DayOfTheWeekApp.genruntimeconfig.cache

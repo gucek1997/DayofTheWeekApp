@@ -1,0 +1,10 @@
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.deps.json
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.dll
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\bin\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.pdb
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.csproj.AssemblyReference.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.AssemblyInfoInputs.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.AssemblyInfo.cs
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.dll
+C:\Users\Kubuś\Desktop\DayOfTheWeekApp\DayOfTheWeekApp.Core\obj\Debug\netcoreapp3.1\DayOfTheWeekApp.Core.pdb

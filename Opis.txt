@@ -1,0 +1,4 @@
+Aplikacja pobieraj¹ca datê urodzenia
+od u¿ytkownika i okreœlaj¹ca dzieñ tygodnia,
+w którym siê urodzi³ w C#. 
+Aplikacja Konsoli .Net Core 
